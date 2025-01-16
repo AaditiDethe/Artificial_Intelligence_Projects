@@ -1,0 +1,7 @@
+# Important steps
+1.conda create -p venv python==3.10
+2.conda activate venv/
+3.pip install -r requirements.txt
+4.streamlit run app.py
+5.Local URL: http://localhost:8501
+  Network URL: http://63.168.1.101:8501
